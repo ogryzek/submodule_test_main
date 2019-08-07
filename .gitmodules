@@ -1,0 +1,8 @@
+[submodule "server"]
+	path = submodule_test_server
+	url = git@github.com:ogryzek/submodule_test_server.git
+	branch = mono
+[submodule "client"]
+	path = submodule_test_client
+	url = git@github.com:ogryzek/submodule_test_client.git
+	branch = mono
